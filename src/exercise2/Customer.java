@@ -1,4 +1,4 @@
-package excercise2;
+package exercise2;
 
 public class Customer implements DiscountRate {
   private String customerName;
